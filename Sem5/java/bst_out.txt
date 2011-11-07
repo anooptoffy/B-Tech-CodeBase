@@ -1,0 +1,108 @@
+
+  OUTPUT:-	
+
+	1.insert
+	2.delete
+	3.inorder
+	4.preorder
+	5.postorder
+	6.find parent
+	7.find node
+	8.find type
+	9.exit
+
+	enter the choice		
+	1
+	enter the element
+	82
+
+
+	enter the choice	
+	1
+	enter the element
+	45
+
+
+	enter the choice	
+	1
+	enter the element
+	35
+
+
+	enter the choice	
+	1
+	enter the element
+	90
+
+
+	enter the choice	
+	1
+	enter the element
+	346
+
+
+	enter the choice	
+	3
+	35
+	45
+	82
+	90
+	346
+
+
+	enter the choice	
+	4
+	82
+	45
+	35
+	90
+	346
+
+
+	enter the choice	
+	5
+	35
+	45
+	346
+	90
+	82
+
+
+	enter the choice	
+	6
+	enter the element
+	35
+	parent of35is45
+
+
+	enter the choice	
+	7
+	enter the element
+	35
+	35is present 
+
+
+	enter the choice	
+	8
+	enter the element
+	35
+	35is present as left child of45
+
+
+	enter the choice	
+	8
+	enter the element
+	90
+	90is present as the right child of 82
+
+
+	enter the choice	
+	8
+	enter the element
+	82
+	82is the root node
+
+
+	enter the choice	
+	9
+

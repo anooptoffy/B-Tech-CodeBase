@@ -1,0 +1,40 @@
+
+OUTPUT:-
+
+	Reader1 reads 0
+	Reader2 reads 0
+	Reader0 reads 0
+Writer3 writes 1
+Writer5 writes 2
+Writer4 writes 3
+	Reader0 reads 3
+	Reader1 reads 3
+	Reader2 reads 3
+Writer3 writes 4
+Writer4 writes 5
+Writer5 writes 6
+	Reader0 reads 6
+	Reader2 reads 6
+	Reader1 reads 6
+Writer5 writes 7
+Writer4 writes 8
+Writer3 writes 9
+	Reader0 reads 9
+	Reader2 reads 9
+	Reader1 reads 9
+Writer5 writes 10
+Writer4 writes 11
+Writer3 writes 12
+	Reader2 reads 12
+	Reader0 reads 12
+	Reader1 reads 12
+Writer4 writes 13
+Writer3 writes 14
+Writer5 writes 15
+        ...........
+        ...........
+        ...........
+................
+................
+................         
+       

@@ -1,0 +1,11 @@
+
+OUTPUT:-
+
+GNU Prolog 1.3.0
+By Daniel Diaz
+Copyright (C) 1999-2007 Daniel Diaz
+| ?- main([1,2,3],[anoop]).
+[1,2,3,anoop]
+
+yes
+

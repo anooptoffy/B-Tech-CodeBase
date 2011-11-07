@@ -1,0 +1,57 @@
+
+OUTPUT:-
+
+enter set A:(1 2 3 4)
+enter set B:(4 5 6 7)
+
+ MENU 
+ 1. union 
+ 2. intersection 
+ 3. membership in A 
+ 4. membership in B 
+ 5. difference 
+ 6. Exit 
+1
+
+(5 6 7 1 2 3 4) 
+ MENU 
+ 1. union 
+ 2. intersection 
+ 3. membership in A 
+ 4. membership in B 
+ 5. difference 
+ 6. Exit 
+2
+
+(4) 
+ MENU 
+ 1. union 
+ 2. intersection 
+ 3. membership in A 
+ 4. membership in B 
+ 5. difference 
+ 6. Exit 
+3
+
+enter element4
+
+T 
+ MENU 
+ 1. union 
+ 2. intersection 
+ 3. membership in A 
+ 4. membership in B 
+ 5. difference 
+ 6. Exit 
+5
+
+(1 2 3) 
+ MENU 
+ 1. union 
+ 2. intersection 
+ 3. membership in A 
+ 4. membership in B 
+ 5. difference 
+ 6. Exit 
+6
+

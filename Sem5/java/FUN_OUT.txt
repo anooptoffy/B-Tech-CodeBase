@@ -1,0 +1,70 @@
+
+OUTPUT:-
+
+
+enter the node
+82
+insert more(0/1)?:
+1
+enter the node
+77
+insert more(0/1)?:
+1
+enter the node
+35
+insert more(0/1)?:
+1
+enter the node
+36
+insert more(0/1)?:
+1
+enter the node
+23
+insert more(0/1)?:
+1
+enter the node
+25
+insert more(0/1)?:
+1
+enter the node
+12
+insert more(0/1)?:
+1
+enter the node
+90
+insert more(0/1)?:
+1
+enter the node
+86
+insert more(0/1)?:
+1
+enter the node
+346
+insert more(0/1)?:
+0
+82 0
+77 1
+35 2
+23 3
+12 4
+23 3
+25 4
+23 3
+35 2
+36 3
+35 2
+77 1
+82 0
+90 1
+86 2
+90 1
+346 2
+90 1
+82 0
+enter two nodes:
+12
+36
+Do you want to continue(0/1)
+LCA is 35
+0
+

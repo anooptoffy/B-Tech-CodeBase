@@ -1,0 +1,17 @@
+
+OUTPUT:-
+
+"Enter the lower limit: " 2
+
+"Enter the upper limit: " 23
+
+2 
+3 
+5 
+7 
+11 
+13 
+17 
+19 
+23 
+

@@ -1,0 +1,93 @@
+
+OUTPUT:-
+
+menu
+1.real vector
+2.complex vector
+3.exit
+
+1
+enter the dimension
+1
+enter the1th component
+12
+
+1.add
+2.scalar mul
+3.dispaly
+4.back	
+3
+(12.0)
+1.add
+2.scalar mul
+3.dispaly
+4.back	
+1
+enter a vector of dimension 1
+enter the1th component
+12
+(24.0)
+1.add
+2.scalar mul
+3.dispaly
+4.back	
+2
+enter a scalar
+2
+(48.0)
+1.add
+2.scalar mul
+3.dispaly
+4.back	
+4
+menu
+1.real vector
+2.complex vector
+3.exit
+
+2
+enter the dimension
+1
+enter the 1component
+12
+12
+1.add
+2.scalarmul
+3.display
+4.back
+
+2
+enter a scalar
+2
+(24.0+i24.0
+,)1.add
+2.scalarmul
+3.display
+4.back
+
+3
+(24.0+i24.0
+,)1.add
+2.scalarmul
+3.display
+4.back
+
+1
+enter a vector of dimension1
+enter the 1component
+5
+5
+(29.0+i29.0
+,)1.add
+2.scalarmul
+3.display
+4.back
+
+4
+menu
+1.real vector
+2.complex vector
+3.exit
+
+3
+

@@ -1,0 +1,11 @@
+
+OUTPUT:-
+
+"Enter the string:" (m a l a y a l a m)
+
+"Length is:" 
+9 
+"Reverse is:" 
+(M A L A Y A L A M) 
+"Is a palindrome" 
+
