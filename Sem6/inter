@@ -1,0 +1,15 @@
+$ cc -lpthread interproc.c
+$ ./a.out
+
+Enter ID0 message 
+good
+
+ID1 reads data 
+ good 
+ bad
+
+ID0 reads data 
+ bad 
+$ 
+
+

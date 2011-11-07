@@ -1,0 +1,19 @@
+OUTPUT:-
+
+
+	$ cc dir.c
+	$ ./a.out
+	assgn2.c
+	a.out
+	hai
+	dining.c
+	.
+	dir.c
+	lca.c
+	..
+	producer.c
+	reader.c
+	interproc.c
+	diskstatus.c
+	bank.c
+	$

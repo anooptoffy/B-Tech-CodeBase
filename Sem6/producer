@@ -1,0 +1,23 @@
+$ cc -lpthread producer.c
+$ ./a.out
+producer produced 100
+consumer consumed 100 
+producer produced 101
+consumer consumed 101 
+producer produced 102
+producer produced 103
+consumer consumed 102 
+producer produced 104
+producer produced 105
+consumer consumed 103 
+producer produced 106
+producer produced 107
+consumer consumed 104 
+producer produced 108
+producer produced 109
+. . . . . . . . . . .
+. . . . . . . . . . .
+
+$ 
+
+

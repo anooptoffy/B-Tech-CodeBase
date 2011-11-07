@@ -1,0 +1,25 @@
+$ cc bank.c
+$ ./a.out
+Enter the process and resourses:5 4
+Enter the instances for each resourses:8 5 9 7
+Enter the maximum permissible allocation:
+3 2 1 4
+0 2 5 2
+5 1 0 5
+1 5 3 0
+3 0 3 3
+Enter the current allocation:
+2 0 1 1
+0 1 2 1
+4 0 0 3
+0 2 1 0
+1 0 3 0
+The system is safe!!!!
+Allocation no 0 to process no 3 
+Allocation no 1 to process no 1 
+Allocation no 2 to process no 2 
+Allocation no 3 to process no 4 
+Allocation no 4 to process no 5 
+$        
+
+

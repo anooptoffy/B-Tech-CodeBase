@@ -1,0 +1,11 @@
+# cc diskstatus.c
+# ./a.out
+volume label Ubuntu-personal
+first data block on (null)
+Inode count 4276224
+inodes per group
+inode size 256
+maximum mount count 34
+# 
+
+

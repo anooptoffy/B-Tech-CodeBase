@@ -1,0 +1,25 @@
+$ cc -lpthread reader.c
+$ ./a.out
+reader 1 reades data 80 
+reader 2 reades data 80 
+reader 3 reades data 80 
+writer 1 writes data 81 
+writer 2 writes data 82 
+writer 3 writes data 83 
+reader 1 reades data 83 
+reader 2 reades data 83 
+reader 3 reades data 83 
+writer 1 writes data 84 
+writer 3 writes data 85 
+writer 2 writes data 86 
+reader 1 reades data 86 
+reader 3 reades data 86 
+reader 2 reades data 86 
+writer 2 writes data 87 
+writer 1 writes data 88 
+writer 3 writes data 89 
+. . . . . . . . . . . . 
+. . . . . . . . . . . . 
+$ 
+
+

@@ -1,0 +1,21 @@
+$ cc -lpthread dining.c
+$ ./a.out
+philosopher 0 start eating 
+philosopher 2 start eating 
+philosopher 0 stops eating 
+philosopher 2 stops eating 
+philosopher 4 start eating 
+philosopher 1 start eating 
+philosopher 4 stops eating 
+philosopher 3 start eating 
+philosopher 1 stops eating 
+philosopher 0 start eating 
+philosopher 3 stops eating 
+philosopher 0 stops eating 
+philosopher 2 start eating 
+philosopher 4 start eating 
+. . . . . . . . . . . . . 
+. . . . . . . . . . . . . 
+
+$ 
+
