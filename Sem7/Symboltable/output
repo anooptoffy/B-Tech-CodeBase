@@ -1,0 +1,18 @@
+
+               SYMBOL TABLE
+
+VARIABLE 	 TYPE
+********************
+
+avail		int
+alloc		int
+max		int
+c		int
+np		int
+nr		int
+i		int
+j		int
+k		int
+check		int
+pp		int
+pn		int
