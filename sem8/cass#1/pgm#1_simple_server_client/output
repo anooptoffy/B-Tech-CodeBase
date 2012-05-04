@@ -1,0 +1,15 @@
+[SERVER]
+
+guest@cse-desktop:~/Desktop/labs8$ ./server 1078
+Here is the message: Anoop Toffy
+
+guest@cse-desktop:~/Desktop/labs8$ 
+
+[CLIENT]
+
+guest@cse-desktop:~/Desktop/labs8$ ./client localhost 1078
+Please enter the message: Anoop Toffy
+I got your message
+guest@cse-desktop:~/Desktop/labs8$
+
+
