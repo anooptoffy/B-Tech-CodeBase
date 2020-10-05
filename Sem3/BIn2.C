@@ -1,11 +1,12 @@
 #include<stdio.h>
+#include<string.h>
 int bin2dec(char *s)
 {
 	int r=0;
 	for(;*s;r=(r<<1)|(*s++-'0'));
 	return r;
 }
-void main()
+ main()
 {
 	char bin[80];
 	int dec;
