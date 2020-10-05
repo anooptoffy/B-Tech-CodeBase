@@ -29,11 +29,12 @@ void hex(int n)
 	a[5]=NULL;
 	printf("%s",a);
 }
-void main()
+int main()
 {
 	int n;
 	printf("\n\nEnter the binary no: ");
 	scanf("%d",&n);
-	printf("Decimal = %d  ,  %d  , ",dec(n),oct(n));
+	printf("\nDecimal = %d\n  ,  %d\n  , ",dec(n),oct(n));
 	hex(n);
+	return 0;
 }
